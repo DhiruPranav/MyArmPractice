@@ -17,7 +17,7 @@
            ]
 
            ,"metadata": {
-                "description": "sku type of the storage account"
+                "description": "sku type of the storage account created"
             }
         }
     },
